@@ -215,3 +215,7 @@ curl -X GET "$BITOL_URL/v1/health" \
   -H "X-API-KEY: $BITOL_API_KEY" \
   -H "X-USER-PASSWORD: $BITOL_USER_PW"
 ```
+
+# Sponsor
+
+If you like this project, I would be super grateful if you could help me finance it through [my Buy me a Coffee page](https://buymeacoffee.com/jgperrin) (although I mostly drink tea...)
