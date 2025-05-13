@@ -6,9 +6,9 @@ Check the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eula.md), 
 
 # Tutorials
 
-1. [Experimenting with Data Contracts](https://medium.com/data-mesh-learning/experimenting-with-data-contracts-9d36219e139e)
-2. Playing with Data Products
-3. Other API calls
+1. [Experimenting with Data Contracts](https://medium.com/data-mesh-learning/experimenting-with-data-contracts-9d36219e139e).
+2. Playing with Data Products.
+3. Other API calls.
 
 # Surveys
 
