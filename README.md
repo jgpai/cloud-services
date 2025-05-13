@@ -205,7 +205,7 @@ Limited to admin users
 ```bash
 curl -X GET "$BITOL_URL/v1/logs?limit=5" \
   -H "X-API-KEY: $BITOL_API_KEY" \
-  -H "X-USER-PASSWORD: $BITOL_USER_PW" | jq
+  -H "X-USER-PASSWORD: $BITOL_USER_PW"
 ```
 
 ### Check health
@@ -213,5 +213,5 @@ curl -X GET "$BITOL_URL/v1/logs?limit=5" \
 ```bash
 curl -X GET "$BITOL_URL/v1/health" \
   -H "X-API-KEY: $BITOL_API_KEY" \
-  -H "X-USER-PASSWORD: $BITOL_USER_PW" | jq
+  -H "X-USER-PASSWORD: $BITOL_USER_PW"
 ```
