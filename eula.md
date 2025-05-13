@@ -1,6 +1,6 @@
-Cloud Services User Agreement
+# Cloud Services User Agreement
 
-(a.k.a. the “Don’t Blame Us” Clause)
+_(a.k.a. the “Don’t Blame Us” Clause)_
 
 Welcome, brave explorer of the [Bitol API](https://bitol.io/)!
 
