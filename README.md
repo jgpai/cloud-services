@@ -1,6 +1,6 @@
 # ODCS & ODPS Cloud Services
 
-Thanks for your interest in the services 
+Thanks for your interest in the services to manage data contracts & data products. Those services are meant for educational and experimental purpose: make the abstract concepts behind data contracts and products more tangible.
 
 Check the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eula.md), it's important.
 
@@ -21,7 +21,9 @@ Check the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eula.md), 
 * Tutorial on Medium: [x](x).
 * Survey.
 
-# Surveys
+# Initial registration
+
+Feel free to share with your friends and colleague, it's still open.
 
 1. [Initial registration survey](https://jgp.ai/csreg).
 
