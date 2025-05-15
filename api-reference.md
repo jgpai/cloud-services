@@ -150,55 +150,7 @@ curl -X GET "$BITOL_URL/v1/contracts/$BITOL_CONTRACT_ID?format=PDF" \
   --output test.pdf
 ```
 
-Returns a pretty PDF of the data contract.
 
-Coming soon!
-
-## Data Products
-
-### Creation from a data contract
-
-```bash
-curl -X POST "$BITOL_URL/v1/products?contractId=$BITOL_CONTRACT_ID&contractVersion=1.0.0" \
-  -H "X-API-KEY: $BITOL_API_KEY"
-```
-
-### Creation by uploading a data product
-
-```bash
-curl -X POST "$BITOL_URL/v1/products?version=0.1.1" \
-  -H "X-API-KEY: $BITOL_API_KEY" \
-  -F "file=@./src/test/resources/data-product/dataprod.odps.yaml"
-```
-
-### Read
-
-```bash
-curl -X GET "$BITOL_URL/v1/products?contractId=$BITOL_PRODUCT_ID" \
-  -H "X-API-KEY: $BITOL_API_KEY" \
-  -H "X-USER-PASSWORD: $BITOL_USER_PW" \
-  --output $BITOL_PRODUCT_ID-0.1.0.odcs.yaml
-```
-
-## Admin operations
-
-Limited to admin users
-
-### Retrieve logs
-
-```bash
-curl -X GET "$BITOL_URL/v1/logs?limit=5" \
-  -H "X-API-KEY: $BITOL_API_KEY" \
-  -H "X-USER-PASSWORD: $BITOL_USER_PW"
-```
-
-### Check health
-
-```bash
-curl -X GET "$BITOL_URL/v1/health" \
-  -H "X-API-KEY: $BITOL_API_KEY" \
-  -H "X-USER-PASSWORD: $BITOL_USER_PW"
-```
 
 # Sponsor
 
