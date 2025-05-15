@@ -9,23 +9,21 @@ Check the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eula.md), 
 ## Experimenting with Data Contracts
 
 * Tutorial on Medium: [Experimenting with Data Contracts](https://medium.com/data-mesh-learning/experimenting-with-data-contracts-9d36219e139e).
-* Survey.
+* Please complete the survey to unlock tutorial #2: [Data Contract Tuttorial Assessment](https://forms.gle/twDduucMy5f8kH1SA).
 
 ## Playing with Data Products
 
-* Tutorial on Medium: [x](x).
+* Tutorial on Medium: After you have completed the previous tutorial's survey.
 * Survey.
 
 ## Other API calls
 
-* Tutorial on Medium: [x](x).
+* Tutorial on Medium: After you have completed the previous tutorial's survey.
 * Survey.
 
 # Initial registration
 
-Feel free to share with your friends and colleague, it's still open.
-
-1. [Initial registration survey](https://jgp.ai/csreg).
+Feel free to share with your friends and colleague, it's still open: [Initial registration survey](https://jgp.ai/csreg).
 
 # Reference material
 
