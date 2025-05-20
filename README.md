@@ -14,7 +14,7 @@ Check the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eula.md), 
 ## Playing with Data Products
 
 * Tutorial on Medium: After you have completed the previous tutorial's survey.
-* Survey.
+* Please complete the survey to unlock tutorial #3: [Survey](https://forms.gle/kAWAu3K3DQpDhBtMA).
 
 ## Other API calls
 
@@ -23,7 +23,7 @@ Check the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eula.md), 
 
 # Initial registration
 
-Feel free to share with your friends and colleague, it's still open: [Initial registration survey](https://jgp.ai/csreg).
+Feel free to share with your friends and colleagues, it's still open: [Initial registration survey](https://jgp.ai/csreg).
 
 # Reference material
 
