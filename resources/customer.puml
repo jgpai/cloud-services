@@ -1,0 +1,39 @@
+@startuml
+!theme vibrant
+
+title Customer
+
+entity Customer {
+    +customer_id: INT (PK, AUTO_INCREMENT)
+    --
+    first_name: VARCHAR(255)
+    last_name: VARCHAR(255) NOT NULL
+    email: VARCHAR(255) UNIQUE NOT NULL
+    phone: VARCHAR(20)
+}
+
+entity Address {
+    +address_id: INT (PK, AUTO_INCREMENT)
+    --
+    customer_id: INT (FK)
+    street1: VARCHAR(255) NOT NULL
+    street2: VARCHAR(255)
+    city: VARCHAR(100) NOT NULL
+    state: VARCHAR(100)
+    postal_code: VARCHAR(20)
+    country_cd: CHAR(2) NOT NULL
+    address_type_id: INT (FK)
+}
+
+Customer "1" -- "0..*" Address : has >
+
+entity AddressType {
+    +address_type_id: INT (PK, AUTO_INCREMENT)
+    --
+    address_type: VARCHAR(20) NOT NULL
+}
+
+Address "1" -- "0..1" AddressType : has >
+
+
+@enduml
