@@ -68,6 +68,7 @@ With a specific version:
 ```bash
 curl -X POST "$BITOL_URL/v1/contracts?version=1.2.3" \
   -H "X-API-KEY: $BITOL_API_KEY" \
+  -H "X-USER-PASSWORD: $BITOL_USER_PW" \
   -F "file=@resources/postgresql-adventureworks-contract.odcs.yaml"
 ```
 
@@ -76,6 +77,7 @@ Error: not a YAML file.
 ```bash
 curl -X POST "$BITOL_URL/v1/contracts" \
   -H "X-API-KEY: $BITOL_API_KEY" \
+  -H "X-USER-PASSWORD: $BITOL_USER_PW" \
   -F "file=@resources/text.txt"
 ```
 
@@ -84,6 +86,7 @@ Error: not a contract.
 ```bash
 curl -X POST "$BITOL_URL/v1/contracts" \
   -H "X-API-KEY: $BITOL_API_KEY" \
+  -H "X-USER-PASSWORD: $BITOL_USER_PW" \
   -F "file=@resources/not-a-contract.odcs.yaml"
 ```
 
@@ -92,9 +95,9 @@ curl -X POST "$BITOL_URL/v1/contracts" \
 ```bash
 cat src/test/resources/ddl/air-booking-basic.sql \
 curl -X POST "$BITOL_URL/v1/contracts?sourceFormat=DDL&version=0.1.0&name=MyDDLContract&domain=Finance&tenant=Acme" \
-     -H "X-API-KEY: $BITOL_API_KEY" \
-     -H "X-USER-PASSWORD: $BITOL_USER_PW" \
-     -F "file=@-"
+  -H "X-API-KEY: $BITOL_API_KEY" \
+  -H "X-USER-PASSWORD: $BITOL_USER_PW" \
+  -F "file=@-"
 ```
 
 ### Get all contract headers for a specific user
