@@ -16,10 +16,10 @@ Check the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eula.md), 
 * Tutorial on Medium: After you have completed the previous tutorial's survey.
 * Please complete the survey to unlock tutorial #3: [Survey](https://forms.gle/kAWAu3K3DQpDhBtMA).
 
-## Other API calls (Tutorial #3)
+## Control the Drift Before It Controls You (Tutorial #3)
 
 * Tutorial on Medium: After you have completed the previous tutorial's survey.
-* Survey.
+* Please complete the survey to unlock tutorial #4: [Survey](https://forms.gle/x1Ei6i6wBAee1vmNA).
 
 # Initial registration
 
