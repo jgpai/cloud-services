@@ -1,0 +1,117 @@
+---
+apiVersion: "v3.0.2"
+contractCreatedTs: "2025-05-17T08:44:58.332+00:00"
+dataProduct: ""
+description:
+  usage: "DDL upload for contract generation"
+  purpose: "Defines schema based on uploaded DDL"
+  limitations: "None"
+domain: "Customer"
+id: "34cae6d7-7648-38b2-8f66-8db79e1e2ce4"
+kind: "DataContract"
+name: "CustomerContract"
+schema:
+- logicalType: "object"
+  name: "Customer"
+  physicalName: "Customer"
+  physicalType: "table"
+  properties:
+  - logicalType: "number"
+    name: "customer_id"
+    physicalName: "customer_id"
+    physicalType: "SERIAL"
+    primaryKey: true
+    required: true
+  - logicalType: "string"
+    name: "first_name"
+    physicalName: "first_name"
+    physicalType: "VARCHAR (255)"
+  - logicalType: "string"
+    name: "last_name"
+    physicalName: "last_name"
+    physicalType: "VARCHAR (255)"
+    required: true
+  - logicalType: "string"
+    name: "email"
+    physicalName: "email"
+    physicalType: "VARCHAR (255)"
+    required: true
+  - logicalType: "string"
+    name: "phone"
+    physicalName: "phone"
+    physicalType: "VARCHAR (20)"
+- logicalType: "object"
+  name: "AddressType"
+  physicalName: "AddressType"
+  physicalType: "table"
+  properties:
+  - logicalType: "number"
+    name: "address_type_id"
+    physicalName: "address_type_id"
+    physicalType: "SERIAL"
+    primaryKey: true
+    required: true
+  - logicalType: "string"
+    name: "address_type"
+    physicalName: "address_type"
+    physicalType: "VARCHAR (20)"
+    required: true
+- logicalType: "object"
+  name: "Address"
+  physicalName: "Address"
+  physicalType: "table"
+  properties:
+  - logicalType: "number"
+    name: "address_id"
+    physicalName: "address_id"
+    physicalType: "SERIAL"
+    primaryKey: true
+    required: true
+  - logicalType: "number"
+    name: "customer_id"
+    physicalName: "customer_id"
+    physicalType: "INT"
+    required: true
+  - logicalType: "string"
+    name: "street1"
+    physicalName: "street1"
+    physicalType: "VARCHAR (255)"
+    required: true
+  - logicalType: "string"
+    name: "street2"
+    physicalName: "street2"
+    physicalType: "VARCHAR (255)"
+  - logicalType: "string"
+    name: "city"
+    physicalName: "city"
+    physicalType: "VARCHAR (100)"
+    required: true
+  - logicalType: "string"
+    name: "state"
+    physicalName: "state"
+    physicalType: "VARCHAR (100)"
+  - logicalType: "string"
+    name: "postal_code"
+    physicalName: "postal_code"
+    physicalType: "VARCHAR (20)"
+  - logicalType: "string"
+    name: "country_cd"
+    physicalName: "country_cd"
+    physicalType: "CHAR (2)"
+    required: true
+  - logicalType: "number"
+    name: "address_type_id"
+    physicalName: "address_type_id"
+    physicalType: "INT"
+slaProperties: []
+status: "draft"
+team:
+- description: "Automatically generated"
+  dateIn: "2025-05-17T08:44:58.332Z"
+  email: "denis.arnaud_slackdml@m4x.org"
+  name: "Denis A."
+  role: "DPO"
+  username: "denis.arnaud_slackdml@m4x.org"
+tenant: "QuantumClimate"
+version: "v0.1.1"
+customProperties: []
