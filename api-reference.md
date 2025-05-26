@@ -51,6 +51,13 @@ curl -X GET "$BITOL_URL/v1/users/<user id>" \
   -H "X-USER-PASSWORD: $BITOL_USER_PW"
 ```
 
+If you lost your API key (it happens...), you can recover it with:
+
+```bash
+curl -X GET "$BITOL_URL/v1/users/key?email=$BITOL_USER_EMAIL" \
+  -H "X-USER-PASSWORD: $BITOL_USER_PW"
+```
+
 ## Data Contract
 
 ### Creation
@@ -153,7 +160,17 @@ curl -X GET "$BITOL_URL/v1/contracts/$BITOL_CONTRACT_ID?format=PDF" \
   --output test.pdf
 ```
 
+## Admin operations
 
+### Check health
+
+Normal users can call the service, but will not get a detailed answer.
+
+```bash
+curl -X GET "$BITOL_URL/v1/health" \
+  -H "X-API-KEY: $BITOL_API_KEY" \
+  -H "X-USER-PASSWORD: $BITOL_USER_PW" | jq
+```
 
 # Sponsor
 

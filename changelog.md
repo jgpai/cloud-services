@@ -1,5 +1,12 @@
 # Changelog
 
+## 2025-05-26 - Service 0.9.1, Library 1.3.0
+
+* Endpoint to recover the API key if you lost it.
+* Enhancement on customization of pretty PDF export.
+* Support for uploading SVG logos.
+* Support for uploading basic PDF settings.
+
 ## 2025-05-22 - Service 0.9.0, Library 1.2.0
 
 * Health endpoint accessible to everyone.
