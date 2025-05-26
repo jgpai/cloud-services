@@ -13,3 +13,7 @@
 
 * Data Products to production (tutorial #2).
 * Diff.
+
+# Sponsor
+
+If you like this project, I would be super grateful if you could help me finance it through [my Buy me a Coffee page](https://buymeacoffee.com/jgperrin) (although I mostly drink tea...)

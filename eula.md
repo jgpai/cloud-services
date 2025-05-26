@@ -17,3 +17,7 @@ By using this service, you acknowledge and agree that:
 🎯 Use this at your own risk — preferably with your test environment, not production.
 
 If all of this sounds acceptable (or at least entertaining), proceed and enjoy responsibly. 🍷
+
+# Sponsor
+
+If you like this project, I would be super grateful if you could help me finance it through [my Buy me a Coffee page](https://buymeacoffee.com/jgperrin) (although I mostly drink tea...)
