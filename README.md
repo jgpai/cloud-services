@@ -21,6 +21,11 @@ Please review the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eu
 * Tutorial on Medium: After you have completed the previous tutorial's survey.
 * Please complete the survey to unlock tutorial #4: [Survey](https://forms.gle/x1Ei6i6wBAee1vmNA).
 
+## Coming soon! (Tutorial #4)
+
+* Tutorial on Medium: After you have completed the previous tutorial's survey.
+* Please complete the survey to unlock a special surprise...
+
 # Initial registration
 
 Feel free to share with your friends and colleagues, it's still open: [Initial registration survey](https://jgp.ai/csreg).
