@@ -1,15 +1,15 @@
 # ODCS & ODPS Cloud Services
 
-Thanks for your interest in the services to manage data contracts & data products. Those services are meant for educational and experimental purpose: make the abstract concepts behind data contracts and products more tangible.
+Thank you for your interest in our services for managing data contracts and data products. Those services are intended for educational and experimental purposes, aiming to make the abstract concepts behind data contracts and products more tangible.
 
-Check the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eula.md), it's important.
+Please review the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eula.md), as it's essential.
 
 # Tutorials
 
 ## Experimenting with Data Contracts (Tutorial #1)
 
 * Tutorial on Medium: [Experimenting with Data Contracts](https://medium.com/data-mesh-learning/experimenting-with-data-contracts-9d36219e139e).
-* Please complete the survey to unlock tutorial #2: [Data Contract Tuttorial Assessment](https://forms.gle/twDduucMy5f8kH1SA).
+* Please complete the survey to unlock tutorial #2: [Data Contract Tutorial Assessment](https://forms.gle/twDduucMy5f8kH1SA).
 
 ## Playing with Data Products (Tutorial #2)
 
@@ -27,7 +27,7 @@ Feel free to share with your friends and colleagues, it's still open: [Initial r
 
 # Reference material
 
-Check the [API reference](api-reference.md) for advanced experimentation.
+The [API reference](api-reference.md) is available for advanced experimentation.
 
 # Sponsor
 
