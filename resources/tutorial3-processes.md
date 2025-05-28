@@ -35,7 +35,7 @@ flowchart TD
     A[Generate temporary data contract]
     A --> G[Compare with contract v0.2.0]
     G --> K[Impact analysis: 1 major, 0 minor, 0 patch &<br/>Suggested version: v1.0.0]
-    K --> O[Deploy automatically]
+    K --> O[Deploy manually, warn downstream users, etc.]
 
     style A fill:#F33126
     style G fill:#38992A
