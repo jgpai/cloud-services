@@ -1,5 +1,9 @@
 # Changelog
 
+## 2025-05-28 - Service 0.9.1, Library 1.3.1
+
+* Minor bug on pretty PDF generation.
+
 ## 2025-05-26 - Service 0.9.1, Library 1.3.0
 
 * Endpoint to recover the API key if you lost it.
