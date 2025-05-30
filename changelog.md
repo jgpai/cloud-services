@@ -1,5 +1,10 @@
 # Changelog
 
+## 2025-05-28 - Service 0.10.2, Library 1.4.0
+
+* Not minor bug on pretty PDF generation. I happen to hate when Spring Boot and JRuby are not friends together.
+* Issue #10. New libraries might not be compatible with older versions. Hmmm.
+
 ## 2025-05-28 - Service 0.9.1, Library 1.3.1
 
 * Minor bug on pretty PDF generation.
