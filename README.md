@@ -6,7 +6,7 @@ Please review the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eu
 
 ## Tutorials
 
-🕶️ Your mission, should you choose to accept it, is to complete a series of hands-on tutorials that will turn you into a master of data contracts and data products using ODCS, ODPS, and the Bitol toolkit—no explosions, just clean, versioned data.
+🕶️ Your missions (there are only four), should you choose to accept it, is to complete a series of hands-on tutorials that will turn you into a master of data contracts and data products using ODCS, ODPS, and the Bitol toolkit—no explosions, just clean, versioned data & metadata.
 
 ### Mission #1: Experimenting with Data Contracts
 
@@ -23,10 +23,10 @@ Please review the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eu
 * Tutorial on Medium: After you have completed the previous tutorial's survey.
 * Please complete the survey to unlock tutorial #4: [Survey](https://forms.gle/x1Ei6i6wBAee1vmNA).
 
-### Mission #4: Coming soon!
+### Mission #4: Making Pretty Documentation from Data Contracts
 
 * Tutorial on Medium: After you have completed the previous tutorial's survey.
-* Please complete the survey to unlock a special surprise...
+* Please complete the [survey](https://forms.gle/f3K1Uc4fRQEGnzrz8) to unlock a special surprise...
 
 ## Initial registration
 
