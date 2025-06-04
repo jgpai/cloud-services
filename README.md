@@ -11,22 +11,22 @@ Please review the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eu
 ### Mission #1: Experimenting with Data Contracts
 
 * Tutorial on Medium: [Experimenting with Data Contracts](https://medium.com/data-mesh-learning/experimenting-with-data-contracts-9d36219e139e).
-* Please complete the survey to unlock tutorial #2: [Data Contract Tutorial Assessment](https://forms.gle/twDduucMy5f8kH1SA).
+* Please complete the survey: [Data Contract Tutorial Assessment](https://forms.gle/twDduucMy5f8kH1SA).
 
 ### Mission #2: Playing with Data Products
 
-* Tutorial on Medium: After you have completed the previous tutorial's survey.
-* Please complete the survey to unlock tutorial #3: [Survey](https://forms.gle/kAWAu3K3DQpDhBtMA).
+* Tutorial on Medium: [Playing with Data Products](https://medium.com/@jgperrin/playing-with-data-products-dbb70a125f2b).
+* Please complete the survey: [Data Product Tutorial Assessment](https://forms.gle/kAWAu3K3DQpDhBtMA).
 
 ### Mission #3: Control the Drift Before It Controls You
 
-* Tutorial on Medium: After you have completed the previous tutorial's survey.
-* Please complete the survey to unlock tutorial #4: [Survey](https://forms.gle/x1Ei6i6wBAee1vmNA).
+* Tutorial on Medium: [Controlling Schema Drift](https://medium.com/@jgperrin/controlling-schema-drift-7c904f9789fb).
+* Please complete the survey: [Controlling Schema Drift Tutorial Assessment](https://forms.gle/x1Ei6i6wBAee1vmNA).
 
 ### Mission #4: Making Pretty Documentation from Data Contracts
 
-* Tutorial on Medium: After you have completed the previous tutorial's survey.
-* Please complete the [survey](https://forms.gle/f3K1Uc4fRQEGnzrz8) to unlock a special surprise...
+* Tutorial on Medium: [Making Pretty Documentation from Data Contracts](https://medium.com/@jgperrin/making-pretty-documentation-from-data-contracts-15611b961a6a).
+* Please complete the survey: [Making Pretty Documentation from Data Contracts & Tutorial Assessment](https://forms.gle/f3K1Uc4fRQEGnzrz8) to unlock a special surprise...
 
 ## Initial registration
 
@@ -35,6 +35,10 @@ Feel free to share with your friends and colleagues, it's still open: [Initial r
 ## Reference material
 
 The [API reference](api-reference.md) is available for advanced experimentation.
+
+## Acknowledgements
+
+I would like to thank a few people for their great [contributions](acknowledgment.md).
 
 # Sponsor
 
