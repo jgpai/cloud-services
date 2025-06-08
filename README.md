@@ -36,10 +36,14 @@ Feel free to share with your friends and colleagues, it's still open: [Initial r
 
 The [API reference](api-reference.md) is available for advanced experimentation.
 
+## Support
+
+Within the Data Mesh Learning (DML) Community Slack, get to the [#bitol-services-by-jgpai](https://data-mesh-learning.slack.com/archives/C08V8MKMLEP) channel.
+
+If you are not in the DML Slack yet, you can join for [free](https://jgp.ai/dmlslack). The DML Slack is shy of 9000 members passionate of product-oriented data engineering and management.
+
 ## Acknowledgements
 
 I would like to thank a few people for their great [contributions](acknowledgment.md).
-
-# Sponsor
 
 If you like this project, I would be super grateful if you could help me finance it through [my Buy me a Coffee page](https://buymeacoffee.com/jgperrin) (although I mostly drink tea...)
