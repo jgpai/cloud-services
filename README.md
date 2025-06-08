@@ -1,4 +1,4 @@
-# ODCS & ODPS Cloud Services
+# Bitol ODCS & ODPS Cloud Services (by jgp.ai)
 
 Thank you for your interest in our services for managing data contracts and data products. Those services are intended for educational and experimental purposes, aiming to make the abstract concepts behind data contracts and products more tangible.
 
