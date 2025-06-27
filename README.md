@@ -26,11 +26,7 @@ Please review the [EULA](https://github.com/jgpdotai/cloud-services/blob/main/eu
 ### Mission #4: Making Pretty Documentation from Data Contracts
 
 * Tutorial on Medium: [Making Pretty Documentation from Data Contracts](https://medium.com/@jgperrin/making-pretty-documentation-from-data-contracts-15611b961a6a).
-* Please complete the survey: [Making Pretty Documentation from Data Contracts & Tutorial Assessment](https://forms.gle/f3K1Uc4fRQEGnzrz8) to unlock a special surprise...
-
-## Initial registration
-
-Feel free to share with your friends and colleagues, it's still open: [Initial registration survey](https://jgp.ai/csreg).
+* Please complete the survey: [Making Pretty Documentation from Data Contracts & Tutorial Assessment](https://forms.gle/f3K1Uc4fRQEGnzrz8) to unlock your digital badge...
 
 ## Reference material
 
